@@ -1,4 +1,3 @@
-# WasteWise-Real-Time-Plastic-Waste-Classification-App
 
 <h1 align="center" id="title">WasteWise – Real-Time Plastic Waste Classification App</h1>
 
